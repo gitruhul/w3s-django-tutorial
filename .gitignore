@@ -150,6 +150,10 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+# Static collection
+
+my_tennis_club/productionfiles/
+
 # Cython debug symbols
 cython_debug/
 
